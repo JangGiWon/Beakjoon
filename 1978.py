@@ -5,7 +5,7 @@ for i in sosu:
     count += 1
     if i != 1:
         for j in range(2, i):
-            if (i / j) == 1:
+            if (i / j) % 1 == 0:
                 count -= 1
                 break
     else:

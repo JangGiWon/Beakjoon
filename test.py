@@ -1,5 +1,5 @@
-i = 234
-s = str(i)
+x = []
+for i in range(0, 10):
+    x.append(i)
 
-for a in str(i):
-    print(a)
+print(x[1::2])

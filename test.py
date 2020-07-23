@@ -1,5 +1,5 @@
-x = []
-for i in range(0, 10):
-    x.append(i)
-
-print(x[1::2])
+list = [1,2,3,4,5]
+answer = ''
+for i in str(list):
+    answer += i
+print(int(answer))

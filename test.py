@@ -1,5 +1,3 @@
-list = [1,2,3,4,5]
-answer = ''
-for i in str(list):
-    answer += i
-print(int(answer))
+num_dic = {'0': 0, '1': 0, '2': 0, '3': 0,
+           '4': 0, '5': 0, '6': 0, '7': 0, '8': 0}
+

@@ -1,5 +1,5 @@
 words = input().lower()
-s = ['abc','def','ghi','jkl','mno','pqrs','tuv','wxyz']
+s = ['abc', 'def', 'ghi', 'jkl', 'mno', 'pqrs', 'tuv', 'wxyz']
 
 time = 0
 for i in range(len(words)):

@@ -1,3 +1,7 @@
-num_dic = {'0': 0, '1': 0, '2': 0, '3': 0,
-           '4': 0, '5': 0, '6': 0, '7': 0, '8': 0}
 
+str = []
+
+for _ in range(2):
+    str.append(input().split())
+
+print(str[0][0])

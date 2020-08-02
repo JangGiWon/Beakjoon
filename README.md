@@ -1,3 +1,2 @@
 # Beakjoon
-
-My Study in Beakjoon online Judge
+백준 사이트에서 
